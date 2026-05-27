@@ -1,0 +1,14 @@
+# Backend
+backend/.env
+backend/keys/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+
+# Frontends
+frontend-evidentum/.env.local
+frontend-evidentum/.next/
+frontend-evidentum/node_modules/
+frontend-wick/.env.local
+frontend-wick/.next/
+frontend-wick/node_modules/

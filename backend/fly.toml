@@ -1,4 +1,4 @@
-app = "aegis-backend"
+app = "aegis-hub-api"
 primary_region = "yyz"
 
 [build]
